@@ -56,6 +56,7 @@
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-Deque)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-deque)
     * [@skyzh, 2019 Spring](https://github.com/skyzh/data-structure-deque)
+    
 * B-Tree
     * [@Galaxies, 2019 Spring](https://github.com/Galaxies99/CS158-Project-BTree)
     * [@KoalaYan, 2019 Spring](https://github.com/KoalaYan/2019-CS158-DS_Project-BTree)
@@ -71,6 +72,7 @@
     * [@HaotianXue, 2019 Fall](https://github.com/xavihart/CS241_QtProj)
     * [@MinoZhao, 2019 Fall](https://github.com/doctormin/Hangzhou-Metro-Data-Visualizer)
     * [@skyzh, 2019 Fall](https://github.com/skyzh/Meteor)
+    * [@HaotianXue, 2019 Fall](https://github.com/xavihart/CS241_QtProj)
 * 中文班
     * [@Galaxies, 2019 Fall](https://github.com/Galaxies99/CS241-CourseData)
 
